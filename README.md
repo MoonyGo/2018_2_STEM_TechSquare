@@ -1,7 +1,8 @@
 # 2018 STEM TechSquare
-2018 STEM TechSquare, 2018.11.17, 14:00 - 17:00, Bayesian in Machine Learning: Probabilistic Programming with Stan
+2018 공대우수학생센터 STEM TechSquare, 2018.11.17, 14:00 - 17:00, Bayesian in Machine Learning: Probabilistic Programming with Stan
 
-1. Slides
+
+1. Lecture Slides
 https://docs.google.com/presentation/d/1rkx6hBldIsKmsCPVJ2tZyyeaWMUMwmBOtVS8eA4cwwo/edit?usp=sharing
 
 2. Please download this repository and open the RStudio project file `STEM_TechSquare2018.Rproj`.
